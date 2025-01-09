@@ -1,4 +1,4 @@
-# webp_blitz
-packed-wotb-convertor
+# .packed-wotb-convertor
+
 npm install</br>
 npm install -g
